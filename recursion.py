@@ -19,3 +19,6 @@ def main():
     print(findMinAndMax(testList))
 
 main()
+
+#new changes
+#ethans note 
