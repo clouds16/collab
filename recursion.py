@@ -1,4 +1,4 @@
-def findMinAndMax(mylist):
+def findMinAndMax(mylist): 
     
     def returnMax(mylist):
         if len(mylist) ==1:
@@ -20,5 +20,3 @@ def main():
 
 main()
 
-#new changes
-#ethans note 
